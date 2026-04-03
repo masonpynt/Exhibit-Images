@@ -1,2 +1,4 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://raw.githubusercontent.com/masonpynt/Exhibit-Images/master/Images/fs01zfn7olv1deTYy1d8.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit01,https://raw.githubusercontent.com/masonpynt/Exhibit-Images/master/Images/Image1.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit02,https://raw.githubusercontent.com/masonpynt/Exhibit-Images/master/Images/Image2.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit03,https://raw.githubusercontent.com/masonpynt/Exhibit-Images/master/Images/Image3.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
